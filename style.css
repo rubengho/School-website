@@ -1,0 +1,59 @@
+marquee {
+    font-size: 55;
+    font-family: serif;
+    color: gold;
+}
+#logo {
+    width: 60;
+    margin-left: 645px;
+}
+
+img {
+    width: 600;
+}
+
+p {
+    font-size: 25;
+    text-align: justify-all;
+}
+
+#school {
+    width: 450;
+}
+
+h3 {
+    font-size: 40;
+}
+#campus {
+    font-size: 46;
+    color: red;
+}
+#contact {
+    font-size: 46;
+    color: deepskyblue;
+}
+#achivements {
+  font-size: 46;
+    color: red;  
+}
+#new {
+   font-size: 46;
+    color: red; 
+}
+#footer1 {
+   font-size: 50;
+    color: bisque;
+}
+#Mukesh {
+    width: 259;
+}
+#Aditya {
+    width: 200;
+}
+#Vidya {
+    width: 500;
+}
+#almuni {
+    font-size: 46;
+    color: red;
+}
